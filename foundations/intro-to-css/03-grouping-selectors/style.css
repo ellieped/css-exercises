@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+
+}
+
+.save {
+    background-color: black;
+    color: white;
+}
+
+
+.delete {
+    background-color: yellow;
+    
+}
